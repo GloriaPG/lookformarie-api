@@ -1,0 +1,8 @@
+Nombre:
+{{ name }}
+
+email:
+{{ email }}
+
+Mensaje:
+{{ message }}
